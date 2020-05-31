@@ -1,0 +1,7 @@
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithManyConsultants\obj\Debug\CallCenterWithManyConsultants.csprojAssemblyReference.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithManyConsultants\obj\Debug\CallCenterWithManyConsultants.csproj.CoreCompileInputs.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithManyConsultants\bin\Debug\CallCenterWithManyConsultants.exe.config
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithManyConsultants\bin\Debug\CallCenterWithManyConsultants.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithManyConsultants\bin\Debug\CallCenterWithManyConsultants.pdb
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithManyConsultants\obj\Debug\CallCenterWithManyConsultants.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithManyConsultants\obj\Debug\CallCenterWithManyConsultants.pdb

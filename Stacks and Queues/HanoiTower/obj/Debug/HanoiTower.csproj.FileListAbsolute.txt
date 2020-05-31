@@ -1,0 +1,7 @@
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\HanoiTower\obj\Debug\HanoiTower.csprojAssemblyReference.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\HanoiTower\obj\Debug\HanoiTower.csproj.CoreCompileInputs.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\HanoiTower\bin\Debug\HanoiTower.exe.config
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\HanoiTower\bin\Debug\HanoiTower.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\HanoiTower\bin\Debug\HanoiTower.pdb
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\HanoiTower\obj\Debug\HanoiTower.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\HanoiTower\obj\Debug\HanoiTower.pdb

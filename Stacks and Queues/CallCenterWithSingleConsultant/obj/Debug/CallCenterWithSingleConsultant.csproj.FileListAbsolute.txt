@@ -1,0 +1,7 @@
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithSingleConsultant\bin\Debug\CallCenterWithSingleConsultant.exe.config
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithSingleConsultant\bin\Debug\CallCenterWithSingleConsultant.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithSingleConsultant\bin\Debug\CallCenterWithSingleConsultant.pdb
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithSingleConsultant\obj\Debug\CallCenterWithSingleConsultant.csprojAssemblyReference.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithSingleConsultant\obj\Debug\CallCenterWithSingleConsultant.csproj.CoreCompileInputs.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithSingleConsultant\obj\Debug\CallCenterWithSingleConsultant.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithSingleConsultant\obj\Debug\CallCenterWithSingleConsultant.pdb

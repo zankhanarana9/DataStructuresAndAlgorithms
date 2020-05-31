@@ -1,0 +1,7 @@
+C:\C# Data Structures\ArraysAndLists\YearlyTransport\YearlyTransport\obj\Debug\YearlyTransport.csprojAssemblyReference.cache
+C:\C# Data Structures\ArraysAndLists\YearlyTransport\YearlyTransport\obj\Debug\YearlyTransport.csproj.CoreCompileInputs.cache
+C:\C# Data Structures\ArraysAndLists\YearlyTransport\YearlyTransport\bin\Debug\YearlyTransport.exe.config
+C:\C# Data Structures\ArraysAndLists\YearlyTransport\YearlyTransport\bin\Debug\YearlyTransport.exe
+C:\C# Data Structures\ArraysAndLists\YearlyTransport\YearlyTransport\bin\Debug\YearlyTransport.pdb
+C:\C# Data Structures\ArraysAndLists\YearlyTransport\YearlyTransport\obj\Debug\YearlyTransport.exe
+C:\C# Data Structures\ArraysAndLists\YearlyTransport\YearlyTransport\obj\Debug\YearlyTransport.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksAndQueues", "StacksAndQueues\StacksAndQueues.csproj", "{B06B9CC1-D657-4CFD-B1A1-C3D01C550917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversingWords", "ReversingWords\ReversingWords.csproj", "{4518AD36-2FA9-4739-ABFA-46D1ADD22318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HanoiTower", "HanoiTower\HanoiTower.csproj", "{EAFE7B26-5B32-489D-ADD8-9E270DD54A82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallCenterWithSingleConsultant", "CallCenterWithSingleConsultant\CallCenterWithSingleConsultant.csproj", "{D6FB29F1-622E-4F6C-9C70-431FBB9C074A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallCenterWithManyConsultants", "CallCenterWithManyConsultants\CallCenterWithManyConsultants.csproj", "{C8ECB5C8-F97F-4F3D-84F6-7E294D4C9FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallCenterWithPrioritySupport", "CallCenterWithPrioritySupport\CallCenterWithPrioritySupport.csproj", "{32D9ED74-EBA1-4EEF-8A77-BD1C8D4FB016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B06B9CC1-D657-4CFD-B1A1-C3D01C550917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06B9CC1-D657-4CFD-B1A1-C3D01C550917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06B9CC1-D657-4CFD-B1A1-C3D01C550917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06B9CC1-D657-4CFD-B1A1-C3D01C550917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4518AD36-2FA9-4739-ABFA-46D1ADD22318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4518AD36-2FA9-4739-ABFA-46D1ADD22318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4518AD36-2FA9-4739-ABFA-46D1ADD22318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4518AD36-2FA9-4739-ABFA-46D1ADD22318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFE7B26-5B32-489D-ADD8-9E270DD54A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFE7B26-5B32-489D-ADD8-9E270DD54A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFE7B26-5B32-489D-ADD8-9E270DD54A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFE7B26-5B32-489D-ADD8-9E270DD54A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6FB29F1-622E-4F6C-9C70-431FBB9C074A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FB29F1-622E-4F6C-9C70-431FBB9C074A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FB29F1-622E-4F6C-9C70-431FBB9C074A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FB29F1-622E-4F6C-9C70-431FBB9C074A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8ECB5C8-F97F-4F3D-84F6-7E294D4C9FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8ECB5C8-F97F-4F3D-84F6-7E294D4C9FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8ECB5C8-F97F-4F3D-84F6-7E294D4C9FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8ECB5C8-F97F-4F3D-84F6-7E294D4C9FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D9ED74-EBA1-4EEF-8A77-BD1C8D4FB016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D9ED74-EBA1-4EEF-8A77-BD1C8D4FB016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D9ED74-EBA1-4EEF-8A77-BD1C8D4FB016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D9ED74-EBA1-4EEF-8A77-BD1C8D4FB016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D0DBD8-566A-4DF1-B295-91F7B4CB267A}
+	EndGlobalSection
+EndGlobal

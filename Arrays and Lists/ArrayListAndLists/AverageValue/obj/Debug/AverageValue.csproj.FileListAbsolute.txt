@@ -1,0 +1,7 @@
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\obj\Debug\AverageValue.csprojAssemblyReference.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\obj\Debug\AverageValue.csproj.CoreCompileInputs.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\bin\Debug\AverageValue.exe.config
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\bin\Debug\AverageValue.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\bin\Debug\AverageValue.pdb
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\obj\Debug\AverageValue.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\obj\Debug\AverageValue.pdb

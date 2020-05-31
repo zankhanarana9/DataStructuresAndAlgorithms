@@ -1,0 +1,6 @@
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\bin\Release\SelectionSort.exe.config
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\bin\Release\SelectionSort.exe
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\bin\Release\SelectionSort.pdb
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\obj\Release\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\obj\Release\SelectionSort.exe
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\obj\Release\SelectionSort.pdb

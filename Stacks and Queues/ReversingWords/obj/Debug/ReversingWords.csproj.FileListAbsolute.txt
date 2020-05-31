@@ -1,0 +1,7 @@
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\ReversingWords\bin\Debug\ReversingWords.exe.config
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\ReversingWords\bin\Debug\ReversingWords.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\ReversingWords\bin\Debug\ReversingWords.pdb
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\ReversingWords\obj\Debug\ReversingWords.csprojAssemblyReference.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\ReversingWords\obj\Debug\ReversingWords.csproj.CoreCompileInputs.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\ReversingWords\obj\Debug\ReversingWords.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\ReversingWords\obj\Debug\ReversingWords.pdb

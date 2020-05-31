@@ -1,0 +1,7 @@
+C:\C# Data Structures\ArraysAndLists\MonthNames\MonthNames\bin\Debug\MonthNames.exe.config
+C:\C# Data Structures\ArraysAndLists\MonthNames\MonthNames\bin\Debug\MonthNames.exe
+C:\C# Data Structures\ArraysAndLists\MonthNames\MonthNames\bin\Debug\MonthNames.pdb
+C:\C# Data Structures\ArraysAndLists\MonthNames\MonthNames\obj\Debug\MonthNames.csprojAssemblyReference.cache
+C:\C# Data Structures\ArraysAndLists\MonthNames\MonthNames\obj\Debug\MonthNames.csproj.CoreCompileInputs.cache
+C:\C# Data Structures\ArraysAndLists\MonthNames\MonthNames\obj\Debug\MonthNames.exe
+C:\C# Data Structures\ArraysAndLists\MonthNames\MonthNames\obj\Debug\MonthNames.pdb

@@ -1,0 +1,7 @@
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\ListOfPeople\bin\Debug\ListOfPeople.exe.config
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\ListOfPeople\bin\Debug\ListOfPeople.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\ListOfPeople\bin\Debug\ListOfPeople.pdb
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\ListOfPeople\obj\Debug\ListOfPeople.csprojAssemblyReference.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\ListOfPeople\obj\Debug\ListOfPeople.csproj.CoreCompileInputs.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\ListOfPeople\obj\Debug\ListOfPeople.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\ListOfPeople\obj\Debug\ListOfPeople.pdb

@@ -1,0 +1,7 @@
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\BookReader\bin\Debug\BookReader.exe.config
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\BookReader\bin\Debug\BookReader.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\BookReader\bin\Debug\BookReader.pdb
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\BookReader\obj\Debug\BookReader.csprojAssemblyReference.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\BookReader\obj\Debug\BookReader.csproj.CoreCompileInputs.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\BookReader\obj\Debug\BookReader.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\BookReader\obj\Debug\BookReader.pdb

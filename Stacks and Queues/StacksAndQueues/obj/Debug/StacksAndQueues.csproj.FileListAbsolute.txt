@@ -1,0 +1,2 @@
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\StacksAndQueues\obj\Debug\StacksAndQueues.csprojAssemblyReference.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\StacksAndQueues\obj\Debug\StacksAndQueues.csproj.CoreCompileInputs.cache

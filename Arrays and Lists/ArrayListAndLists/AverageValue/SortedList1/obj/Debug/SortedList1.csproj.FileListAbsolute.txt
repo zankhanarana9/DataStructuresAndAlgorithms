@@ -1,0 +1,7 @@
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\SortedList1\bin\Debug\SortedList1.exe.config
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\SortedList1\bin\Debug\SortedList1.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\SortedList1\bin\Debug\SortedList1.pdb
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\SortedList1\obj\Debug\SortedList1.csprojAssemblyReference.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\SortedList1\obj\Debug\SortedList1.csproj.CoreCompileInputs.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\SortedList1\obj\Debug\SortedList1.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Arrays and Lists\ArrayListAndLists\AverageValue\SortedList1\obj\Debug\SortedList1.pdb

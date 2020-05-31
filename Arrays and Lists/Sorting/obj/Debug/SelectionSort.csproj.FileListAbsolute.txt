@@ -1,0 +1,7 @@
+C:\C# Data Structures\ArraysAndLists\Sorting\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\C# Data Structures\ArraysAndLists\Sorting\SelectionSort\bin\Debug\SelectionSort.exe
+C:\C# Data Structures\ArraysAndLists\Sorting\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\C# Data Structures\ArraysAndLists\Sorting\SelectionSort\obj\Debug\SelectionSort.csprojAssemblyReference.cache
+C:\C# Data Structures\ArraysAndLists\Sorting\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\C# Data Structures\ArraysAndLists\Sorting\SelectionSort\obj\Debug\SelectionSort.exe
+C:\C# Data Structures\ArraysAndLists\Sorting\SelectionSort\obj\Debug\SelectionSort.pdb

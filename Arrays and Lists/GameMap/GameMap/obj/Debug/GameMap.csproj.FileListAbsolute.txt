@@ -1,0 +1,7 @@
+C:\C# Data Structures\ArraysAndLists\GameMap\GameMap\bin\Debug\GameMap.exe.config
+C:\C# Data Structures\ArraysAndLists\GameMap\GameMap\bin\Debug\GameMap.exe
+C:\C# Data Structures\ArraysAndLists\GameMap\GameMap\bin\Debug\GameMap.pdb
+C:\C# Data Structures\ArraysAndLists\GameMap\GameMap\obj\Debug\GameMap.csprojAssemblyReference.cache
+C:\C# Data Structures\ArraysAndLists\GameMap\GameMap\obj\Debug\GameMap.csproj.CoreCompileInputs.cache
+C:\C# Data Structures\ArraysAndLists\GameMap\GameMap\obj\Debug\GameMap.exe
+C:\C# Data Structures\ArraysAndLists\GameMap\GameMap\obj\Debug\GameMap.pdb

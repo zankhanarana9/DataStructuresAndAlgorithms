@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameMap", "GameMap.csproj", "{FA0D57FA-5C17-4EE5-BFA6-4ECD1C553597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0D57FA-5C17-4EE5-BFA6-4ECD1C553597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0D57FA-5C17-4EE5-BFA6-4ECD1C553597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0D57FA-5C17-4EE5-BFA6-4ECD1C553597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0D57FA-5C17-4EE5-BFA6-4ECD1C553597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {312B4A66-A822-496D-9146-70368255559C}
+	EndGlobalSection
+EndGlobal

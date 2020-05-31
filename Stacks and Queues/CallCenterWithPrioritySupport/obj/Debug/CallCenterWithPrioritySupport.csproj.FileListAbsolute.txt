@@ -1,0 +1,11 @@
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithPrioritySupport\obj\Debug\CallCenterWithPrioritySupport.csprojAssemblyReference.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithPrioritySupport\obj\Debug\CallCenterWithPrioritySupport.csproj.CoreCompileInputs.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithPrioritySupport\bin\Debug\CallCenterWithPrioritySupport.exe.config
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithPrioritySupport\bin\Debug\CallCenterWithPrioritySupport.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithPrioritySupport\bin\Debug\CallCenterWithPrioritySupport.pdb
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithPrioritySupport\bin\Debug\Priority Queue.dll
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithPrioritySupport\bin\Debug\Priority Queue.pdb
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithPrioritySupport\bin\Debug\Priority Queue.xml
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithPrioritySupport\obj\Debug\CallCenterWithPrioritySupport.csproj.CopyComplete
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithPrioritySupport\obj\Debug\CallCenterWithPrioritySupport.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\CallCenterWithPrioritySupport\obj\Debug\CallCenterWithPrioritySupport.pdb
