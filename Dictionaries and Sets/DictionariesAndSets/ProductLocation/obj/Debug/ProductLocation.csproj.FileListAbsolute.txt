@@ -1,0 +1,6 @@
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\ProductLocation\bin\Debug\ProductLocation.exe.config
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\ProductLocation\bin\Debug\ProductLocation.exe
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\ProductLocation\bin\Debug\ProductLocation.pdb
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\ProductLocation\obj\Debug\ProductLocation.csproj.CoreCompileInputs.cache
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\ProductLocation\obj\Debug\ProductLocation.exe
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\ProductLocation\obj\Debug\ProductLocation.pdb

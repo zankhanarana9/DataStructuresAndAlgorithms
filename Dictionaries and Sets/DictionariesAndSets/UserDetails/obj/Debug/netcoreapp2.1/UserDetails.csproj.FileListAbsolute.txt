@@ -1,0 +1,11 @@
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\UserDetails\bin\Debug\netcoreapp2.1\UserDetails.deps.json
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\UserDetails\bin\Debug\netcoreapp2.1\UserDetails.runtimeconfig.json
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\UserDetails\bin\Debug\netcoreapp2.1\UserDetails.runtimeconfig.dev.json
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\UserDetails\bin\Debug\netcoreapp2.1\UserDetails.dll
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\UserDetails\bin\Debug\netcoreapp2.1\UserDetails.pdb
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\UserDetails\obj\Debug\netcoreapp2.1\UserDetails.csprojAssemblyReference.cache
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\UserDetails\obj\Debug\netcoreapp2.1\UserDetails.csproj.CoreCompileInputs.cache
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\UserDetails\obj\Debug\netcoreapp2.1\UserDetails.AssemblyInfoInputs.cache
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\UserDetails\obj\Debug\netcoreapp2.1\UserDetails.AssemblyInfo.cs
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\UserDetails\obj\Debug\netcoreapp2.1\UserDetails.dll
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Dictionaries and Sets\DictionariesAndSets\UserDetails\obj\Debug\netcoreapp2.1\UserDetails.pdb
