@@ -10,6 +10,8 @@ namespace Sorting
     {
         static void Main(string[] args)
         {
+            WriteHeader("Merge Sort", false);
+            MergeSortTest();
 
             WriteHeader("SELECTION SORT", false);
             SelectionTest();
@@ -30,8 +32,20 @@ namespace Sorting
 
         }
 
-        static void QuicksortTest()
+        static void MergeSortTest()
         {
+            int[] arr = { -11, 12, -42, 0, 1, 90, 68, 6, -9 };
+            MergeSort.Sort(arr, 0, arr.Length - 1);
+            Console.WriteLine(string.Join(" | ", arr));
+
+            string[] stringValues = { "Mary", "Marcin", "Ann", "James", "George", "Nicole" };
+            MergeSort.Sort(stringValues,0,stringValues.Length-1);
+            Console.WriteLine(string.Join(" | ", stringValues));
+
+        }
+
+        static void QuicksortTest()
+        {   
             int[] arr = { -11, 12, -42, 0, 1, 90, 68, 6, -9 };
             QuickSort.Sort(arr);
             Console.WriteLine(string.Join(" | ", arr));

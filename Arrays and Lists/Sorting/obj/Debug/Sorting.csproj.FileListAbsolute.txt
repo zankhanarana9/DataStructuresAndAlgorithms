@@ -5,3 +5,10 @@ C:\C# Data Structures\ArraysAndLists\Sorting\SelectionSort\obj\Debug\Sorting.csp
 C:\C# Data Structures\ArraysAndLists\Sorting\SelectionSort\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
 C:\C# Data Structures\ArraysAndLists\Sorting\SelectionSort\obj\Debug\SelectionSort.exe
 C:\C# Data Structures\ArraysAndLists\Sorting\SelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\bin\Debug\SelectionSort.exe.config
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\bin\Debug\SelectionSort.exe
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\bin\Debug\SelectionSort.pdb
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\obj\Debug\SelectionSort.exe
+C:\Users\zankh\Source\Repos\Data Structures and Algorithms\Arrays and Lists\Sorting\obj\Debug\SelectionSort.pdb

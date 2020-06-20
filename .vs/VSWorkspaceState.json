@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Arrays and Lists",
     "\\Arrays and Lists\\ArrayListAndLists",
-    "\\Arrays and Lists\\Sorting"
+    "\\Arrays and Lists\\Sorting",
+    "\\Dictionaries and Sets",
+    "\\Dictionaries and Sets\\DictionariesAndSets"
   ],
-  "SelectedNode": "\\Arrays and Lists\\ArrayListAndLists",
+  "SelectedNode": "\\Dictionaries and Sets\\DictionariesAndSets\\DictionariesAndSets.sln",
   "PreviewInSolutionExplorer": false
 }
