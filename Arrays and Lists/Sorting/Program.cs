@@ -80,11 +80,11 @@ namespace Sorting
         static void InsertionTest()
         {
             int[] arr = { -11, 12, -42, 0, 1, 90, 68, 6, -9 };
-            InsertionSort.Sort(arr);
+            InsertionSort.RecuriveSort(arr,arr.Length);
             Console.WriteLine(string.Join(" | ", arr));
 
             string[] stringValues = { "Mary", "Marcin", "Ann", "James", "George", "Nicole" };
-            InsertionSort.Sort(stringValues);
+            InsertionSort.RecuriveSort(stringValues, stringValues.Length);
             Console.WriteLine(string.Join(" | ", stringValues));
         }
 
