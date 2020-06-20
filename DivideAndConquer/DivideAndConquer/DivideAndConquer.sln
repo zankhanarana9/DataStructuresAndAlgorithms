@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSubArrayProblem", "DivideAndConquer\MaxSubArrayProblem.csproj", "{EB98E2CC-24FE-4931-91EC-A3F920295152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideAndConquerTests", "DivideAndConquerTests\DivideAndConquerTests.csproj", "{A3E329D6-279B-47FD-90E2-AF7F0E804B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB98E2CC-24FE-4931-91EC-A3F920295152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB98E2CC-24FE-4931-91EC-A3F920295152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB98E2CC-24FE-4931-91EC-A3F920295152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB98E2CC-24FE-4931-91EC-A3F920295152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E329D6-279B-47FD-90E2-AF7F0E804B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E329D6-279B-47FD-90E2-AF7F0E804B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E329D6-279B-47FD-90E2-AF7F0E804B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E329D6-279B-47FD-90E2-AF7F0E804B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3B8A025-5CB1-45C7-B639-A63780EF7031}
+	EndGlobalSection
+EndGlobal
