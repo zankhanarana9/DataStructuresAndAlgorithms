@@ -10,6 +10,10 @@ namespace Sorting
     {
         static void Main(string[] args)
         {
+
+            WriteHeader("Heap Sort", false);
+            HeapSortTest();
+
             WriteHeader("Merge Sort", false);
             MergeSortTest();
 
@@ -32,6 +36,17 @@ namespace Sorting
 
         }
 
+        static void HeapSortTest()
+        {
+            int[] arr = { -11, 12, -42, 0, 1, 90, 68, 6, -9 };
+            HeapSort.Sort(arr);
+            Console.WriteLine(string.Join(" | ", arr));
+
+            string[] stringValues = { "Mary", "Marcin", "Ann", "James", "George", "Nicole" };
+            HeapSort.Sort(stringValues);
+            Console.WriteLine(string.Join(" | ", stringValues));
+
+        }
         static void MergeSortTest()
         {
             int[] arr = { -11, 12, -42, 0, 1, 90, 68, 6, -9 };
