@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sorting
 {
-    public static class QuickSort
+    public static class QuickSortHoarePartition
     {
         public static void Sort<T>(T[] array) where T: IComparable
         {

@@ -11,6 +11,12 @@ namespace Sorting
         static void Main(string[] args)
         {
 
+            WriteHeader("Randomized Quick Sort", false);
+            RandomQuickSortTest();
+
+            WriteHeader("Quick Sort Variant", false);
+            QuickSortVariantTest();
+
             WriteHeader("Heap Sort", false);
             HeapSortTest();
 
@@ -34,6 +40,30 @@ namespace Sorting
            
             Console.ReadKey();
 
+        }
+
+        static void RandomQuickSortTest()
+        {
+            //int[] arr = { 5, 4, 3, 2, 1 };
+            int[] arr = { -11, 12, -42, 0, 1, 90, 68, 6, -9 };
+            RandomizedQuickSort.Sort(arr);
+            Console.WriteLine(string.Join(" | ", arr));
+
+            string[] stringValues = { "Mary", "Marcin", "Ann", "James", "George", "Nicole" };
+            RandomizedQuickSort.Sort(stringValues);
+            Console.WriteLine(string.Join(" | ", stringValues));
+        }
+
+        static void QuickSortVariantTest()
+        {
+            int[] arr = { 5,4,3,2,1};
+            //int[] arr = { 1, 1, 1, 1, 1, 1, 1 };
+            QuickSortVariant.Sort(arr);
+            Console.WriteLine(string.Join(" | ", arr));
+
+            string[] stringValues = { "Mary", "Marcin", "Ann", "James", "George", "Nicole" };
+            QuickSortVariant.Sort(stringValues);
+            Console.WriteLine(string.Join(" | ", stringValues));
         }
 
         static void HeapSortTest()
@@ -62,11 +92,11 @@ namespace Sorting
         static void QuicksortTest()
         {   
             int[] arr = { -11, 12, -42, 0, 1, 90, 68, 6, -9 };
-            QuickSort.Sort(arr);
+            QuickSortHoarePartition.Sort(arr);
             Console.WriteLine(string.Join(" | ", arr));
 
             string[] stringValues = { "Mary", "Marcin", "Ann", "James", "George", "Nicole" };
-            QuickSort.Sort(stringValues);
+            QuickSortHoarePartition.Sort(stringValues);
             Console.WriteLine(string.Join(" | ", stringValues));
         }
 
