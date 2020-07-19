@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Arrays and Lists",
-    "\\Arrays and Lists\\ArrayListAndLists",
-    "\\Arrays and Lists\\Sorting",
-    "\\Stacks and Queues"
+    "\\Trees",
+    "\\Trees\\BasicTrees\\BasicTree\\CompanyStructure",
+    "\\Trees\\BasicTrees\\CompanyStructure",
+    "\\Trees\\Trees",
+    "\\Trees\\Trees (2)"
   ],
-  "SelectedNode": "\\Arrays and Lists\\Sorting\\Sorting.sln",
+  "SelectedNode": "\\Trees\\Trees (2)\\Trees.sln",
   "PreviewInSolutionExplorer": false
 }
