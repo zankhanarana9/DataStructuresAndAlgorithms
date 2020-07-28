@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5E807C17-E2FD-469A-888D-11F1C78950A2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Graph</RootNamespace>
-    <AssemblyName>Graph</AssemblyName>
+    <RootNamespace>Graphs</RootNamespace>
+    <AssemblyName>Graphs</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
