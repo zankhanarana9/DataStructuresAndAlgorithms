@@ -35,5 +35,18 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CircleQueue.cs" />
+    <Compile Include="LLQueue.cs" />
+    <Compile Include="LLStack.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Queue.cs" />
+    <Compile Include="Stack.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="LinkedLists">
+      <HintPath>..\..\LinkedLists\LinkedLists.dll</HintPath>
+    </Reference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

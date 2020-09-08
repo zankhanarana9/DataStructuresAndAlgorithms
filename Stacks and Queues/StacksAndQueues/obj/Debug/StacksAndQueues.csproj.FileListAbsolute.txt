@@ -1,2 +1,9 @@
 C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\StacksAndQueues\obj\Debug\StacksAndQueues.csprojAssemblyReference.cache
 C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\StacksAndQueues\obj\Debug\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\StacksAndQueues\bin\Debug\StacksAndQueues.exe.config
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\StacksAndQueues\bin\Debug\StacksAndQueues.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\StacksAndQueues\bin\Debug\StacksAndQueues.pdb
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\StacksAndQueues\bin\Debug\LinkedLists.dll
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\StacksAndQueues\obj\Debug\StacksAndQueues.csproj.CopyComplete
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\StacksAndQueues\obj\Debug\StacksAndQueues.exe
+C:\Users\zankh\source\repos\Data Structures and Algorithms\Stacks and Queues\StacksAndQueues\obj\Debug\StacksAndQueues.pdb
