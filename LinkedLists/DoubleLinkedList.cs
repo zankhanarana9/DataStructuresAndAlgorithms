@@ -25,9 +25,10 @@ namespace LinkedLists
             p = Start;
             while(p!=null)
             {
-                Console.WriteLine(p.Data);
+                Console.Write($"{p.Data} ");
                 p = p.Next;
             }
+            Console.WriteLine();
         }
 
         public void InsertAtBeginning(T data)
@@ -211,7 +212,7 @@ namespace LinkedLists
                 return;
             }
             Node<T> p = Start;
-            while(p!=null)
+            while(p.Next !=null)
             {
                 p = p.Next;
             }

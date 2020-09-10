@@ -37,6 +37,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CircleQueue.cs" />
+    <Compile Include="Deque.cs" />
     <Compile Include="LLQueue.cs" />
     <Compile Include="LLStack.cs" />
     <Compile Include="Program.cs" />
